@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9933E7E3-752A-40FB-8462-478F79150BBF}</ProjectGuid>
+    <ProjectGuid>{EE2F9FFE-19D5-4647-9AD5-1B73026179EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01.NumbersFrom1toN</RootNamespace>
-    <AssemblyName>01.NumbersFrom1toN</AssemblyName>
+    <RootNamespace>_04.PrintDeck</RootNamespace>
+    <AssemblyName>_04.PrintDeck</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NumbersFrom1toN.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

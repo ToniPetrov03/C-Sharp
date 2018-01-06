@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9933E7E3-752A-40FB-8462-478F79150BBF}</ProjectGuid>
+    <ProjectGuid>{6E831AE5-88F0-4EDC-A3A4-B150FBBB4EED}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01.NumbersFrom1toN</RootNamespace>
-    <AssemblyName>01.NumbersFrom1toN</AssemblyName>
+    <RootNamespace>_17.SpiralMatrix</RootNamespace>
+    <AssemblyName>_17.SpiralMatrix</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NumbersFrom1toN.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
