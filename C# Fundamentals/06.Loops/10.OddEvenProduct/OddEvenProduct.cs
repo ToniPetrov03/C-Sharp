@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _10.OddEvenProduct
 {
-    class Program
+    class OddEvenProduct
     {
         static void Main(string[] args)
         {

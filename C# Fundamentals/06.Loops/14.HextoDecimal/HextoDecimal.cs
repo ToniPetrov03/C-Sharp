@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _14.HextoDecimal
 {
-    class Program
+    class HextoDecimal
     {
         static void Main(string[] args)
         {

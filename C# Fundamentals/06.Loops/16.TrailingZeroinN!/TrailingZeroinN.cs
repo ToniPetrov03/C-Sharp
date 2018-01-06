@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _16.TrailingZeroinN_
 {
-    class Program
+    class TrailingZeroinN
     {
         static void Main(string[] args)
         {

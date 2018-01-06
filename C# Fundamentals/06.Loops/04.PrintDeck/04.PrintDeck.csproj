@@ -7,7 +7,7 @@
     <ProjectGuid>{EE2F9FFE-19D5-4647-9AD5-1B73026179EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_04.PrintDeck</RootNamespace>
-    <AssemblyName>_04.PrintDeck</AssemblyName>
+    <AssemblyName>04.PrintDeck</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="PrintDeck.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

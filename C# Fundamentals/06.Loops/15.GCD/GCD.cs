@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _15.GCD
 {
-    class Program
+    class GCD
     {
         static void Main(string[] args)
         {

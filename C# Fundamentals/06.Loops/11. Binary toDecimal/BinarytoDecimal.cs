@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _11.Binary_toDecimal
 {
-    class Program
+    class BinarytoDecimal
     {
         static void Main(string[] args)
         {

@@ -7,7 +7,7 @@
     <ProjectGuid>{A05B9D89-D143-408F-8E65-B992F4270004}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_13.DecimaltoHex</RootNamespace>
-    <AssemblyName>_13.DecimaltoHex</AssemblyName>
+    <AssemblyName>13.DecimaltoHex</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="DecimaltoHex.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

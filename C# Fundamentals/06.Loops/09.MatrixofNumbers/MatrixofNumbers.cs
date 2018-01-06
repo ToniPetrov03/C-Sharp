@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _09.MatrixofNumbers
 {
-    class Program
+    class MatrixofNumbers
     {
         static void Main(string[] args)
         {

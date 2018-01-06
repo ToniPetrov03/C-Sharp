@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _07.Calculate3_
 {
-    class Program
+    class Calculate3
     {
         static void Main(string[] args)
         {

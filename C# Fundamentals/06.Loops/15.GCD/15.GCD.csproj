@@ -7,7 +7,7 @@
     <ProjectGuid>{59E42B0F-13F0-44DF-9F74-0E9C73816199}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_15.GCD</RootNamespace>
-    <AssemblyName>_15.GCD</AssemblyName>
+    <AssemblyName>15.GCD</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="GCD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _08.CatalanNumbers
 {
-    class Program
+    class CatalanNumbers
     {
         static void Main(string[] args)
         {

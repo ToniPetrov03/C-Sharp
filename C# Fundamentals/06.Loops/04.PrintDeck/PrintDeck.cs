@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _04.PrintDeck
 {
-    class Program
+    class PrintDeck
     {
         static void Main(string[] args)
         {

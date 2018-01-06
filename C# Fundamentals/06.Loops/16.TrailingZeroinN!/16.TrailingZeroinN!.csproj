@@ -7,7 +7,7 @@
     <ProjectGuid>{728C2498-755B-4866-ADFE-F2ABBAF86AFE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_16.TrailingZeroinN_</RootNamespace>
-    <AssemblyName>_16.TrailingZeroinN_</AssemblyName>
+    <AssemblyName>16.TrailingZeroinN!</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="TrailingZeroinN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

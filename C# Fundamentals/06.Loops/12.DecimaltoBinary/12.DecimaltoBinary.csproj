@@ -7,7 +7,7 @@
     <ProjectGuid>{433FBF2D-5175-46C2-AC9E-FC61B93BDEA7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_12.DecimaltoBinary</RootNamespace>
-    <AssemblyName>_12.DecimaltoBinary</AssemblyName>
+    <AssemblyName>12.DecimaltoBinary</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="DecimaltoBinary.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

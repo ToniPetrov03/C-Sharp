@@ -10,6 +10,7 @@ namespace _03.MMSAofNNumbers
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

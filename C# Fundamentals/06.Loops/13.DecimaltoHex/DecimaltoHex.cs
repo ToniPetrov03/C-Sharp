@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _13.DecimaltoHex
 {
-    class Program
+    class DecimaltoHex
     {
         static void Main(string[] args)
         {

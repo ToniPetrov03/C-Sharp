@@ -7,7 +7,7 @@
     <ProjectGuid>{CEA78CC8-AB13-4840-8953-3D723479DCBB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_05.Calculate_</RootNamespace>
-    <AssemblyName>_05.Calculate_</AssemblyName>
+    <AssemblyName>05.Calculate!</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Calculate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

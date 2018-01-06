@@ -7,7 +7,7 @@
     <ProjectGuid>{56CB011F-6250-4A76-ABB0-F5D0A69B19FC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_14.HextoDecimal</RootNamespace>
-    <AssemblyName>_14.HextoDecimal</AssemblyName>
+    <AssemblyName>14.HextoDecimal</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="HextoDecimal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
