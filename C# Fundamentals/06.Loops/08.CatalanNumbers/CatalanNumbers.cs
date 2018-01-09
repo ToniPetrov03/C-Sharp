@@ -8,6 +8,7 @@ namespace _08.CatalanNumbers
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
+
             BigInteger result = 1;
             BigInteger result1 = 1;
             BigInteger result2 = 1;
