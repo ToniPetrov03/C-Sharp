@@ -12,8 +12,8 @@ namespace _10.OddEvenProduct
         {
             int n = int.Parse(Console.ReadLine());
             int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
-            int evenProduct = 1;
-            int oddProduct = 1;
+            long evenProduct = 1;
+            long oddProduct = 1;
             for (int i = 1; i <= n; i++)
             {
                 if (i % 2 == 0)
