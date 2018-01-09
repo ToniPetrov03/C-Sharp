@@ -15,7 +15,7 @@ namespace _11.Binary_toDecimal
 
             for (int i = 0; i < binary.Length; i++)
             {
-                if (binary[binary.Length - i - 1] == '0')                                                                                                                                
+                if (binary[binary.Length - i - 1] == '0')
                 {
                     continue;
                 }
