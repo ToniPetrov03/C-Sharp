@@ -8,6 +8,7 @@ namespace _07.Calculate3_
         {
             int n = int.Parse(Console.ReadLine());
             int k = int.Parse(Console.ReadLine());
+
             BigInteger result = 1;
             BigInteger result1 = n - k;
 
