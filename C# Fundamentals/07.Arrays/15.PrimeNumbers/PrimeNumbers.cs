@@ -18,7 +18,7 @@ namespace _15.PrimeNumbers
                 if (!notPrimes[i])
                 {
                     max = i;
-                    for (ulong j = i * i; j <= n; j+=i)
+                    for (ulong j = i * i; j <= n; j += i)
                     {
                         notPrimes[j] = true;
                     }
