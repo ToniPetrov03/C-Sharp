@@ -6,17 +6,17 @@ namespace _01.Decimal_to_Binary
     {
         static void Main(string[] args)
         {
-            int a = int.Parse(Console.ReadLine());
-            int b;
-            string result = string.Empty;
+            int decimalNumber = int.Parse(Console.ReadLine());
 
-            while (a > 0)
+            int remainder;
+            string result = string.Empty;
+            while (decimalNumber > 0)
             {
-                b = a % 2;
-                a /= 2;
-                result = b.ToString() + result;
+                remainder = decimalNumber % 2;
+                decimalNumber /= 2;
+                result = remainder.ToString() + result;
             }
-            Console.WriteLine(result);
+            Console.WriteLine("Binary:  {0}", result);
         }
     }
 }
