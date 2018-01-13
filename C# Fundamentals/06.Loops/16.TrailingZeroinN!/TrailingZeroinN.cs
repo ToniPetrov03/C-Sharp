@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _16.TrailingZeroinN_
 {
@@ -10,6 +6,13 @@ namespace _16.TrailingZeroinN_
     {
         static void Main(string[] args)
         {
+            double n = double.Parse(Console.ReadLine());
+            double a = 0;
+            for (int i = 5; n / i > 1; i *= 5)
+            {
+                a += Math.Floor(n / i);
+            }
+            Console.WriteLine(a);
         }
     }
 }
