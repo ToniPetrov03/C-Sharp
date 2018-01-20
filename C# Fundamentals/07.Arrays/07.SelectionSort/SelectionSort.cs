@@ -22,7 +22,6 @@ namespace _07.SelectionSort
             {
                 Console.WriteLine(arr[i]);
             }
-
         }
     }
 }
