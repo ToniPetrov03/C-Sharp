@@ -33,7 +33,7 @@ namespace _09.FrequentNumber
                     {
                         maxN = arr[i];
                         max = result;
-                    }                   
+                    }
                 }
                 result = 1;
             }
