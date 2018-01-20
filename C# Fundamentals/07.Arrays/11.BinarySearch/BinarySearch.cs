@@ -22,7 +22,6 @@ namespace _11.BinarySearch
 
             for (int i = 0; i < arr.Length; i++)
             {
-
                 if (arr[i] == a)
                 {
                     exist = true;
