@@ -12,7 +12,7 @@ namespace _04.MaximalSequence
         {
             int n = int.Parse(Console.ReadLine());
             int[] arr = new int[n];
-            int result = 0;
+            int result = 1;
             int repeated = 1;
 
             for (int i = 0; i < n; i++)
@@ -33,6 +33,10 @@ namespace _04.MaximalSequence
                     }
                     repeated = 1;
                 }
+            }
+            if (repeated > result)
+            {
+                result = repeated;
             }
             Console.WriteLine(result);
         }
