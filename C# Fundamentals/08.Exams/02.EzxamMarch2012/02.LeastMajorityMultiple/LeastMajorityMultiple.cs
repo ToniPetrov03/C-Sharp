@@ -10,13 +10,30 @@ namespace _02.LeastMajorityMultiple
     {
         static void Main(string[] args)
         {
-            int a = int.Parse(Console.ReadLine());
-            int b = int.Parse(Console.ReadLine());
-            int c = int.Parse(Console.ReadLine());
-            int d = int.Parse(Console.ReadLine());
-            int e = int.Parse(Console.ReadLine());
+            int[] arr = new int[5];
+            int three = 0;
 
+            for (int i = 0; i < 5; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+            }
 
+            for (int i = 1; i < 100000; i++)
+            {
+                for (int j = 0; j < 5; j++)
+                {
+                    if (i >= arr[j] && i % arr[j] == 0)
+                    {
+                        three++;
+                        if (three >= 3)
+                        {
+                            Console.WriteLine(i);
+                            Environment.Exit(0);
+                        }
+                    }
+                }
+                three = 0;
+            }
         }
     }
 }
