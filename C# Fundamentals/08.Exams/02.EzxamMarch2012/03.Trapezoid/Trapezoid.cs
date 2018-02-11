@@ -30,7 +30,7 @@ namespace _03.Trapezoid
                 numberOfRightDots++;
                 Console.WriteLine();
             }
-            for (int i = 0; i < n*2; i++)
+            for (int i = 0; i < n * 2; i++)
             {
                 Console.Write('*');
             }
