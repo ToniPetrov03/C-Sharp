@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{93FA2F61-779A-4995-963E-B44CED7F424A}</ProjectGuid>
+    <ProjectGuid>{ECAC0EA3-DE26-410B-9982-D27DAABDE3CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_05.Pillars</RootNamespace>
-    <AssemblyName>05.Pillars</AssemblyName>
+    <RootNamespace>_02.AstrologicalDigits</RootNamespace>
+    <AssemblyName>02.AstrologicalDigits</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="AstrologicalDigits.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
