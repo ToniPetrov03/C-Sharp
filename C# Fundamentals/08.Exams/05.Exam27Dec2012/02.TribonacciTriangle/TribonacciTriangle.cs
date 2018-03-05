@@ -21,6 +21,7 @@ namespace _02.TribonacciTriangle
             int t = 3;
             int y = 0;
             int j = 3;
+
             for (int i = 3; i < p; i++)
             {
                 for (; j < p; j++)
