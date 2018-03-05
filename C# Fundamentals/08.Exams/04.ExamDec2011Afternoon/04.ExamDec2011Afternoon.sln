@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FighterAttack", "01.Figh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AstrologicalDigits", "02.AstrologicalDigits\02.AstrologicalDigits.csproj", "{ECAC0EA3-DE26-410B-9982-D27DAABDE3CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SandGlass", "03.SandGlass\03.SandGlass.csproj", "{AAD1AA42-709B-4C98-89B5-A398EA08794E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DancingBits", "04.DancingBits\04.DancingBits.csproj", "{5C69DE8B-B690-40D4-A836-585D86F7D625}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{ECAC0EA3-DE26-410B-9982-D27DAABDE3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECAC0EA3-DE26-410B-9982-D27DAABDE3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECAC0EA3-DE26-410B-9982-D27DAABDE3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD1AA42-709B-4C98-89B5-A398EA08794E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD1AA42-709B-4C98-89B5-A398EA08794E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD1AA42-709B-4C98-89B5-A398EA08794E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD1AA42-709B-4C98-89B5-A398EA08794E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C69DE8B-B690-40D4-A836-585D86F7D625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C69DE8B-B690-40D4-A836-585D86F7D625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C69DE8B-B690-40D4-A836-585D86F7D625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C69DE8B-B690-40D4-A836-585D86F7D625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
