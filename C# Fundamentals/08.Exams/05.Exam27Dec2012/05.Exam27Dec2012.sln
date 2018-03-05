@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NextDate", "01.NextDate\01.NextDate.csproj", "{A20D5942-4918-4DB3-898F-1CBF4B8CFD94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TribonacciTriangle", "02.TribonacciTriangle\02.TribonacciTriangle.csproj", "{D008A194-139F-408D-8612-6D2556992670}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A20D5942-4918-4DB3-898F-1CBF4B8CFD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A20D5942-4918-4DB3-898F-1CBF4B8CFD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A20D5942-4918-4DB3-898F-1CBF4B8CFD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D008A194-139F-408D-8612-6D2556992670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D008A194-139F-408D-8612-6D2556992670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D008A194-139F-408D-8612-6D2556992670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D008A194-139F-408D-8612-6D2556992670}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

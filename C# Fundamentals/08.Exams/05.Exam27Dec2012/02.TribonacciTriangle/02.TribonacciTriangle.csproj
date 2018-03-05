@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A20D5942-4918-4DB3-898F-1CBF4B8CFD94}</ProjectGuid>
+    <ProjectGuid>{D008A194-139F-408D-8612-6D2556992670}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01.NextDate</RootNamespace>
-    <AssemblyName>01.NextDate</AssemblyName>
+    <RootNamespace>_02.TribonacciTriangle</RootNamespace>
+    <AssemblyName>02.TribonacciTriangle</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NextDate.cs" />
+    <Compile Include="TribonacciTriangle.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _01.NextDate
 {
-    class Program
+    class NextDate
     {
         static void Main(string[] args)
         {
